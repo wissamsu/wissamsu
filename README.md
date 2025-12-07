@@ -29,6 +29,7 @@
 ### Technologies & Frameworks
 
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
+![spring-boot](https://img.shields.io/badge/springboot-black?style=flat-square&logo=springboot)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
 ![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
 ![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css&logoColor=1572B6)
@@ -42,7 +43,7 @@
 ![playwright](https://custom-icon-badges.herokuapp.com/badge/playwright-black.svg?logo=playwright&logoColor=white&style=flat-square)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 ![gin](https://img.shields.io/badge/gin-black?style=flat-square&logo=gin)
-![jetpackcompose](https://img.shields.io/badge/jetpackcompose-black?style=flat-square&logo=jetpackcompose)
+![jetpack-compose](https://img.shields.io/badge/jetpackcompose-black?style=flat-square&logo=jetpackcompose)
 
 ### DevOps & Tools
 
