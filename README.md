@@ -1,16 +1,27 @@
-## Hi there 👋
+total stars total stars followers views
 
-<!--
-**wissamsu/wissamsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+github contribution grid snake animation
 
-Here are some ideas to get you started:
+🚀 Technologies & Tools
+Languages
+typescript rust java kotlin python bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies & Frameworks
+spring nest hibernate css3 html5 tailwindcss react solid next.js node.js bun tauri prisma graphql apollo discord electron javafx react-native expo angular socketio express puppeteer cypress selenium playwright bootstrap
+
+DevOps & Tools
+vscode intellij datagrip outlook git windows linux github gitlab circleci github actions docker postgresql redis mongodb mysql firebase android gitkraken postman bitwarden wordpress joomla
+
+⚡ GitHub Stats
+  
+
+trophy
+
+⭐ My Projects
+🛡️  Discord
+🌐  Websites
+⚙️  DevOps
+📱  Mobile
+🖥️  Desktop
+💻  API
+🔌  IDE Plugins
