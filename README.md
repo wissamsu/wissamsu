@@ -24,6 +24,7 @@
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 ![golang](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go)
+![lua](https://img.shields.io/badge/lua-black?style=flat-square&logo=lua)
 
 ### Technologies & Frameworks
 
@@ -41,6 +42,7 @@
 ![playwright](https://custom-icon-badges.herokuapp.com/badge/playwright-black.svg?logo=playwright&logoColor=white&style=flat-square)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 ![gin](https://img.shields.io/badge/gin-black?style=flat-square&logo=gin)
+![jetpackcompose](https://img.shields.io/badge/jetpackcompose-black?style=flat-square&logo=jetpackcompose)
 
 ### DevOps & Tools
 
