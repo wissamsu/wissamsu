@@ -53,6 +53,7 @@
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
 ![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
+![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
 ![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![keycloak](https://img.shields.io/badge/keycloak-black?style=flat-square&logo=keycloak)
