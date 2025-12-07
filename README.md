@@ -23,7 +23,7 @@
 ![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
-![golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![golang](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go)
 
 ### Technologies & Frameworks
 
@@ -40,6 +40,7 @@
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
 ![playwright](https://custom-icon-badges.herokuapp.com/badge/playwright-black.svg?logo=playwright&logoColor=white&style=flat-square)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
+![gin](https://img.shields.io/badge/gin-black?style=flat-square&logo=gin)
 
 ### DevOps & Tools
 
@@ -60,6 +61,7 @@
 ![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
 ![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
+![jenkins](https://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins)
 
 
 </details>
