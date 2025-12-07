@@ -43,6 +43,7 @@
 ![playwright](https://custom-icon-badges.herokuapp.com/badge/playwright-black.svg?logo=playwright&logoColor=white&style=flat-square)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 ![gin](https://img.shields.io/badge/gin-black?style=flat-square&logo=gin)
+![fiber](https://custom-icon-badges.herokuapp.com/badge/fiber-black.svg?logo=00fd8700-5430-11ea-820b-15fd85b2472c&logoColor=007ACC&style=flat-square)
 ![jetpack-compose](https://img.shields.io/badge/jetpackcompose-black?style=flat-square&logo=jetpackcompose)
 
 ### DevOps & Tools
